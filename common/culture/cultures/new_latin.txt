@@ -1,5 +1,5 @@
 ﻿burgundian = {
-	color = { 0.345 1 0.502 }
+	color = { 128 0 32 }
 	
 	ethos = ethos_bureaucratic
 	heritage = heritage_latin
