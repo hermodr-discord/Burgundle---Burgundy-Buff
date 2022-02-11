@@ -6,7 +6,7 @@ e_burgundy = {
 	color = { 128 0 32 }
 	color2 = { 220 220 0 }
 	
-	capital = c_venaissin
+	capital = c_provence
 		
 	ai_primary_priority = {
 		if = {
@@ -30,7 +30,7 @@ e_burgundy = {
 		color = { 128 0 32 }
 		color2 = { 220 220 0 }
 		
-		capital	= c_venaissin # Arles
+		capital	= c_provence
 		
 		ai_primary_priority = {
 			if = {
@@ -50,37 +50,8 @@ e_burgundy = {
 			color = { 128 0 32 }
 			color2 = { 255 255 255 }
 			
-			capital = c_venaissin # Arles
+			capital = c_provence
 			
-			c_venaissin = {
-				color = { 128 0 32 }
-				color2 = { 255 255 255 }
-				
-				b_arles = {
-					province = 2017
-					
-					color = { 128 0 32 }
-					color2 = { 255 255 255 }
-				}
-				b_orange = {
-					province = 2062
-					
-					color = { 180 30 70 }
-					color2 = { 255 255 255 }
-				}
-				b_avignon = {
-					province = 2059
-					
-					color = { 180 30 70 }
-					color2 = { 255 255 255 }
-				}
-				b_vaison = {
-					province = 2067
-					
-					color = { 180 30 70 }
-					color2 = { 255 255 255 }
-				}
-			}
 			c_provence = {
 				color = { 165 50 105 }
 				color2 = { 255 255 255 }
@@ -113,6 +84,35 @@ e_burgundy = {
 					province = 2023
 					
 					color = { 165 50 105 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_venaissin = {
+				color = { 128 0 32 }
+				color2 = { 255 255 255 }
+				
+				b_arles = {
+					province = 2017
+					
+					color = { 128 0 32 }
+					color2 = { 255 255 255 }
+				}
+				b_orange = {
+					province = 2062
+					
+					color = { 180 30 70 }
+					color2 = { 255 255 255 }
+				}
+				b_avignon = {
+					province = 2059
+					
+					color = { 180 30 70 }
+					color2 = { 255 255 255 }
+				}
+				b_vaison = {
+					province = 2067
+					
+					color = { 180 30 70 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -183,112 +183,6 @@ e_burgundy = {
 					province = 8718
 					
 					color = { 165 20 65 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
-		
-		d_savoie = {
-			color = { 101 8 34 }
-			color2 = { 255 255 255 }
-			
-			capital = c_savoie # Savoie
-			
-			c_savoie = {
-				color = { 81 8 14 }
-				color2 = { 255 255 255 }
-				
-				b_moutiers = {
-					province = 2031
-					
-					color = { 81 8 14 }
-					color2 = { 255 255 255 }
-				}
-				b_saint_michel_de_maurienne = {
-					province = 2029
-					
-					color = { 81 8 14 }
-					color2 = { 255 255 255 }
-				}
-				b_chambery = {
-					province = 2455
-					
-					color = { 81 8 14 }
-					color2 = { 255 255 255 }
-				}
-				b_belley = {
-					province = 2069
-					
-					color = { 81 8 14 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_aosta = {
-				color = { 90 5 15 }
-				color2 = { 255 255 255 }
-				
-				b_aosta = {
-					province = 2039
-					
-					color = { 90 5 15 }
-					color2 = { 255 255 255 }
-				}
-				b_martigny = {
-					province = 2038
-					
-					color = { 90 5 15 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_geneva = {
-				color = { 175 40 65 }
-				color2 = { 255 255 255 }
-				
-				b_geneva = {
-					province = 2035
-					
-					color = { 175 40 65 }
-					color2 = { 255 255 255 }
-				}
-				b_annecy = {
-					province = 2034
-					
-					color = { 175 40 65 }
-					color2 = { 255 255 255 }
-				}
-				b_thonon_les_bains = {
-					province = 2036
-					
-					color = { 175 40 65 }
-					color2 = { 255 255 255 }
-				}
-				b_faucigny = {
-					province = 8719
-					
-					color = { 175 40 65 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_canavese = {
-				color = { 115 25 45 }
-				color2 = { 255 255 255 }
-				
-				b_ivrea = {
-					province = 2040
-
-					color = { 115 25 45 }
-					color2 = { 255 255 255 }
-				}
-				b_pinerolo = {
-					province = 2042
-
-					color = { 115 25 45 }
-					color2 = { 255 255 255 }
-				}
-				b_canavese = {
-					province = 2456
-
-					color = { 115 25 45 }
 					color2 = { 255 255 255 }
 				}
 			}
@@ -412,6 +306,112 @@ e_burgundy = {
 					province = 2064
 					
 					color = { 195 70 95 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_savoie = {
+			color = { 101 8 34 }
+			color2 = { 255 255 255 }
+			
+			capital = c_savoie # Savoie
+			
+			c_savoie = {
+				color = { 81 8 14 }
+				color2 = { 255 255 255 }
+				
+				b_moutiers = {
+					province = 2031
+					
+					color = { 81 8 14 }
+					color2 = { 255 255 255 }
+				}
+				b_saint_michel_de_maurienne = {
+					province = 2029
+					
+					color = { 81 8 14 }
+					color2 = { 255 255 255 }
+				}
+				b_chambery = {
+					province = 2455
+					
+					color = { 81 8 14 }
+					color2 = { 255 255 255 }
+				}
+				b_belley = {
+					province = 2069
+					
+					color = { 81 8 14 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aosta = {
+				color = { 90 5 15 }
+				color2 = { 255 255 255 }
+				
+				b_aosta = {
+					province = 2039
+					
+					color = { 90 5 15 }
+					color2 = { 255 255 255 }
+				}
+				b_martigny = {
+					province = 2038
+					
+					color = { 90 5 15 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_geneva = {
+				color = { 175 40 65 }
+				color2 = { 255 255 255 }
+				
+				b_geneva = {
+					province = 2035
+					
+					color = { 175 40 65 }
+					color2 = { 255 255 255 }
+				}
+				b_annecy = {
+					province = 2034
+					
+					color = { 175 40 65 }
+					color2 = { 255 255 255 }
+				}
+				b_thonon_les_bains = {
+					province = 2036
+					
+					color = { 175 40 65 }
+					color2 = { 255 255 255 }
+				}
+				b_faucigny = {
+					province = 8719
+					
+					color = { 175 40 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_canavese = {
+				color = { 115 25 45 }
+				color2 = { 255 255 255 }
+				
+				b_ivrea = {
+					province = 2040
+
+					color = { 115 25 45 }
+					color2 = { 255 255 255 }
+				}
+				b_pinerolo = {
+					province = 2042
+
+					color = { 115 25 45 }
+					color2 = { 255 255 255 }
+				}
+				b_canavese = {
+					province = 2456
+
+					color = { 115 25 45 }
 					color2 = { 255 255 255 }
 				}
 			}
