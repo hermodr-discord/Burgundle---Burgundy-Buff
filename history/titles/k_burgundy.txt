@@ -1,0 +1,235 @@
+k_burgundy = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
+	771.12.4 = {
+		holder = 6392	#Charlemagne
+	}
+	798.1.1 = {
+		holder = burgundian_01 #
+}
+
+d_provence = {
+	763.1.1 = {
+		liege = k_lotharingia
+	}
+	763.1.1 = {
+		holder = 194040 #Thomas
+	}
+}
+
+
+c_provence = {
+	867.1.1 = { change_development_level = 10 }
+	1066.1.1 = { change_development_level = 16 }
+	
+	#Karling
+	763.1.1 = {
+		liege = k_lotharingia
+	}
+	763.1.1 = {
+		holder = 194040 #Thomas
+	}
+}
+
+
+c_nice = {
+	867.1.1 = { change_development_level = 9 }
+	1066.1.1 = { change_development_level = 13 }
+	
+	756.1.1 = {
+		liege = k_italy
+	}
+	756.1.1 = {
+		holder = 190330 #Liutprand
+	}
+}
+
+
+c_forcalquier = {
+	867.1.1 = { change_development_level = 8 }
+	
+	765.1.1 = {
+		liege = "d_provence"
+		holder = 91500 #Welentus, historical as placeholder
+	}
+}
+
+
+c_venaissin = {
+	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 11 }
+	
+	765.1.1 = {
+		liege = "d_provence"
+		holder = 91500 #Welentus, historical as placeholder
+	}
+}
+
+
+c_viviers = {
+	1066.1.1 = { change_development_level = 9 }
+	
+	745.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91494 #Wegelenzo, historical as placeholder
+	}
+}
+
+
+d_savoie = {
+}
+
+
+c_savoie = {
+	1066.1.1 = { change_development_level = 11 }
+	
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+}
+
+
+c_aosta = {
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+}
+
+
+c_canavese = {
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+}
+
+d_dauphine = {
+}
+
+c_lyon = {
+	867.1.1 = { change_development_level = 8 }
+	
+	765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+}
+
+
+c_viennois = {
+	750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+}
+
+
+c_valentinois = {
+	750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+}
+
+
+c_forez = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 8 }
+	
+	765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+}
+
+
+d_upper_burgundy = {
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+}
+
+
+c_besancon = {
+	769.1.1 = {
+		holder = 144999
+	}
+}
+
+
+c_geneva = {
+	867.1.1 = { change_development_level = 9 }
+	1066.1.1 = { change_development_level = 12	}
+	
+	760.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91482 #FREDERIC, count of Transjuranie
+	}
+}
+
+
+c_dole = {
+	769.1.1 = {
+		holder = 144999
+	}
+}
+
+c_bresse = {
+	769.1.1 = {
+		holder = 144999
+	}
+}
+
+c_bern = {
+	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 11	}
+	
+	760.1.1 = {
+		liege = d_swabia
+	}
+	760.1.1 = {
+		holder = 167825 #Gerold
+	}
+}
+
+
+c_aargau = {
+	740.1.1 = {
+		liege = d_swabia
+	}
+	740.1.1 = {
+		holder = 161481 #Hugo
+	}
+}
+
+
+c_neuchatel = {
+	760.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91482 #FREDERIC, count of Transjuranie
+	}
+}

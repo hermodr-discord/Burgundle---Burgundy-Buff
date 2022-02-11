@@ -110,7 +110,6 @@ d_provence = {
 			scale={ 0.270000 0.270000 }
 			depth=1.010000
 		}
-
 	}
 
 	colored_emblem={
@@ -122,7 +121,6 @@ d_provence = {
 			scale={ 0.960000 0.960000 }
 			depth=2.010000
 		}
-
 	}
 
 	colored_emblem={
@@ -132,12 +130,10 @@ d_provence = {
 			position={ 0.500000 0.440000 }
 			scale={ 0.230000 0.230000 }
 		}
-
 	}
-
 }
 
-c_venaissin = {
+c_provence = {
 	pattern="pattern_solid.dds"
 	color1=rgb { 75 0 31 }
 	color2=white
@@ -150,8 +146,5 @@ c_venaissin = {
 		instance={
 			scale={ 0.960000 0.960000 }
 		}
-
 	}
-
 }
-

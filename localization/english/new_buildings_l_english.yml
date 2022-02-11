@@ -1,0 +1,16 @@
+﻿l_english:
+ #Grand Castle of Provence
+ building_type_grand_castle_provence:0 "Grand Castle of Provence"
+ building_type_grand_castle_provence_desc:0 "The truest staple of Burgundian engineering, the Grand Castle of Provence was built during the reign of Severus IV to guard against the surrounding hostile peoples, and to allow for unhalted trade for all time."
+ building_grand_castle_provence:0 "$building_type_grand_castle_provence$"
+ building_grand_castle_provence_desc:0 "$building_type_grand_castle_provence_desc$"
+ 
+ #Burgundian Castle
+ building_type_burgundian_castle_01:0 "White Castle of Burgundy"
+ building_type_burgundian_castle_01_desc:0 "A marvel of engineering, the White Castles of Burgundy shielded the subjects of the King from harm and poverty."
+ building_burgundian_castle_01:0 "$building_burgundian_castle_01$"
+ building_burgundian_castle_01_desc:0 "$building_type_burgundian_castle_01_desc$"
+ building_type_burgundian_castle_02:0 "White Star of Burgundy"
+ building_type_burgundian_castle_02_desc:0 "A marvel of engineering, the White Stars of Burgundy granted further protection to their citizens, and with larger trade hubs allowed for more money to flow into the Kingdom."
+ building_burgundian_castle_02:0 "$building_burgundian_castle_02$"
+ building_burgundian_castle_02_desc:0 "$building_type_burgundian_castle_02_desc$"

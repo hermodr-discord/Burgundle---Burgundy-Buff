@@ -112,7 +112,7 @@ burgundian_castle_01 = {
 		base = 100
 	}
 	
-	type = duchy_capital
+	type = special
 }
 
 burgundian_castle_02 = {
@@ -179,5 +179,5 @@ burgundian_castle_02 = {
 		base = 100
 	}
 	
-	type = duchy_capital
+	type = special
 }
