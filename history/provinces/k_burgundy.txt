@@ -5,8 +5,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
-	769.1.1 = {
+	867.1.1 = {
 		special_building_slot = grand_castle_provence
+		duchy_capital_building_slot = yes
 	}
 }
 2023 = {	#AIX
@@ -81,8 +82,8 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
-	769.1.1 = {
-		duchy_capital_building_slot = burgundian_castle_01
+	867.1.1 = {
+		duchy_capital_building = burgundian_castle_01
 	}
 }
 2029 = {	#SAINT-MICHEL-DE-MAURIENNE
@@ -140,6 +141,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
+	867.1.1 = {
+		duchy_capital_building = burgundian_castle_01
+	}
 }
 2070 = {	#VILLARS
 	holding = church_holding
@@ -206,6 +210,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
+	867.1.1 = {
+		duchy_capital_building = burgundian_castle_01
+	}
 }
 2077 = {	#VESOUL
 	holding = none
@@ -255,6 +262,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
+	867.1.1 = {
+		duchy_capital_building = burgundian_castle_01
+	}
 }
 2037 = {	#LAUSANNE
 	holding = church_holding

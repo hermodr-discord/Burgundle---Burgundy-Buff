@@ -14,3 +14,7 @@
  building_type_burgundian_castle_02_desc:0 "A marvel of engineering, the White Stars of Burgundy granted further protection to their citizens, and with larger trade hubs allowed for more money to flow into the Kingdom."
  building_burgundian_castle_02:0 "$building_burgundian_castle_02$"
  building_burgundian_castle_02_desc:0 "$building_type_burgundian_castle_02_desc$"
+ building_type_burgundian_castle_03:0 "Shining Star of Burgundy"
+ building_type_burgundian_castle_03_desc:0 "A truly astonishing piece of artistical engineering, the Shining Stars of Burgundy were incredibly fortified self-sufficient castles, able to withstand years of siege while still leaving the stomachs of the citizens full. Inside the walls lay what can only be descried as a Trade City, bringing massive income to the Kingdom."
+ building_burgundian_castle_03:0 "$building_burgundian_castle_02$"
+ building_burgundian_castle_03_desc:0 "$building_type_burgundian_castle_02_desc$"
