@@ -82,7 +82,7 @@
 	religion = catholic
 	holding = castle_holding
 	769.1.1 = {
-		duchy_capital_building_slot = the_tower_of_london_01
+		duchy_capital_building_slot = burgundian_castle_01
 	}
 }
 2029 = {	#SAINT-MICHEL-DE-MAURIENNE
