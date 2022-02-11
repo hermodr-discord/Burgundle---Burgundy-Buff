@@ -1,7 +1,4 @@
 k_burgundy = {
-	867.1.1 = { change_development_level = 7 }
-	1066.1.1 = { change_development_level = 10 }
-	
 	771.12.4 = {
 		holder = 6392	#Charlemagne
 	}
@@ -48,6 +45,7 @@ c_nice = {
 
 c_forcalquier = {
 	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 10 }
 	
 	765.1.1 = {
 		liege = "d_provence"
@@ -68,6 +66,7 @@ c_venaissin = {
 
 
 c_viviers = {
+	867.1.1 = { change_development_level = 7 }
 	1066.1.1 = { change_development_level = 9 }
 	
 	745.1.1 = {
@@ -82,6 +81,7 @@ d_savoie = {
 
 
 c_savoie = {
+	867.1.1 = { change_development_level = 7 }
 	1066.1.1 = { change_development_level = 11 }
 	
 	760.1.1 = {
@@ -97,6 +97,9 @@ c_savoie = {
 
 
 c_aosta = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	760.1.1 = {
 		liege = k_lotharingia
 	}
@@ -110,6 +113,9 @@ c_aosta = {
 
 
 c_canavese = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	760.1.1 = {
 		liege = k_lotharingia
 	}
@@ -126,6 +132,7 @@ d_dauphine = {
 
 c_lyon = {
 	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 10 }
 	
 	765.1.1 = {
 		liege = "k_lotharingia"
@@ -135,6 +142,9 @@ c_lyon = {
 
 
 c_viennois = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	750.1.1 = {
 		liege = "d_upper_burgundy"
 		holder = 91490 #VULFARD, historical placeholder
@@ -143,6 +153,9 @@ c_viennois = {
 
 
 c_valentinois = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	750.1.1 = {
 		liege = "d_upper_burgundy"
 		holder = 91490 #VULFARD, historical placeholder
@@ -175,6 +188,9 @@ d_upper_burgundy = {
 
 
 c_besancon = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	769.1.1 = {
 		holder = 144999
 	}
@@ -193,12 +209,18 @@ c_geneva = {
 
 
 c_dole = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	769.1.1 = {
 		holder = 144999
 	}
 }
 
 c_bresse = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	769.1.1 = {
 		holder = 144999
 	}
@@ -218,6 +240,9 @@ c_bern = {
 
 
 c_aargau = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	740.1.1 = {
 		liege = d_swabia
 	}
@@ -228,6 +253,9 @@ c_aargau = {
 
 
 c_neuchatel = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
 	760.1.1 = {
 		liege = "k_lotharingia"
 		holder = 91482 #FREDERIC, count of Transjuranie
