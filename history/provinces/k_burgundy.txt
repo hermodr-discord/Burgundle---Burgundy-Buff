@@ -5,8 +5,8 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
-		duchy_capital_building = grand_castle_provence
+	769.1.1 = {
+		special_building_slot = grand_castle_provence
 	}
 }
 2023 = {	#AIX
@@ -81,6 +81,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
+	769.1.1 = {
+		duchy_capital_building_slot = the_tower_of_london_01
+	}
 }
 2029 = {	#SAINT-MICHEL-DE-MAURIENNE
 	holding = church_holding

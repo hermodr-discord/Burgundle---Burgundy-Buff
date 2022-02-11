@@ -26,6 +26,7 @@ e_burgundy = {
 			add = @better_than_the_alternatives_score
 		}
 	}
+	
 	k_burgundy = {
 		color = { 128 0 32 }
 		color2 = { 220 220 0 }

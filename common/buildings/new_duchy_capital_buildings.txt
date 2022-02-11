@@ -43,7 +43,7 @@ grand_castle_provence = {
 		base = 100
 	}
 	
-	type = duchy_capital
+	type = special
 }
 	
 burgundian_castle_01 = {
@@ -53,28 +53,15 @@ burgundian_castle_01 = {
 	
 	can_construct_potential = {
 		#d_provence
-		barony = title:b_arles
-		barony = title:b_forcalquier
-		barony = title:b_nice
+		barony = title:b_toulon
 		#d_dauphine
 		barony = title:b_lyon
-		barony = title:b_feurs
-		barony = title:b_grenoble
-		barony = title:b_monteil
-		barony = title:b_viviers
 		#d_savoie
 		barony = title:b_moutiers
-		barony = title:b_aosta
-		barony = title:b_geneva
-		barony = title:b_ivrea
 		#d_upper_burgundy
 		barony = title:b_besancon
-		barony = title:b_bourg
-		barony = title:b_dole
 		#d_transjurania
 		barony = title:b_bern
-		barony = title:b_biel
-		barony = title:b_neuchatel
 		building_requirement_tribal = no
 	}
 	
@@ -122,28 +109,15 @@ burgundian_castle_02 = {
 	
 	can_construct_potential = {
 		#d_provence
-		barony = title:b_arles
-		barony = title:b_forcalquier
-		barony = title:b_nice
+		barony = title:b_toulon
 		#d_dauphine
 		barony = title:b_lyon
-		barony = title:b_feurs
-		barony = title:b_grenoble
-		barony = title:b_monteil
-		barony = title:b_viviers
 		#d_savoie
 		barony = title:b_moutiers
-		barony = title:b_aosta
-		barony = title:b_geneva
-		barony = title:b_ivrea
 		#d_upper_burgundy
 		barony = title:b_besancon
-		barony = title:b_bourg
-		barony = title:b_dole
 		#d_transjurania
 		barony = title:b_bern
-		barony = title:b_biel
-		barony = title:b_neuchatel
 		building_requirement_tribal = no
 	}
 	
