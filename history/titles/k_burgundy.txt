@@ -2,8 +2,6 @@ k_burgundy = {
 	771.12.4 = {
 		holder = 6392	#Charlemagne
 	}
-	798.1.1 = {
-		holder = burgundian_01 #
 }
 
 d_provence = {
