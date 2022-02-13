@@ -63,6 +63,7 @@ d_provence = {
 	}
 	1066.1.1 = {
 		holder = burgundian_14 #Severus VI
+		liege = e_hre
 	}
 }
 
@@ -252,6 +253,7 @@ d_dauphine = {
 	}
 	1066.1.1 = {
 		holder = burgundian_15 #Julius II
+		liege = e_hre
 	}
 }
 
@@ -491,6 +493,7 @@ d_savoie = {
 	}
 	1066.1.1 = {
 		holder = burgundian_16 #Romulus
+		liege = e_hre
 	}
 }
 
@@ -736,6 +739,7 @@ d_upper_burgundy = {
 	}
 	1066.1.1 = {
 		holder = burgundian_17 #Romanus
+		liege = e_hre
 	}
 }
 
@@ -915,6 +919,7 @@ d_transjurania = {
 	}
 	1066.1.1 = {
 		holder = burgundian_18 #Gaius II
+		liege = e_hre
 	}
 }
 
