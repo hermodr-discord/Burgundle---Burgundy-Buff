@@ -2,14 +2,67 @@ k_burgundy = {
 	771.12.4 = {
 		holder = 6392	#Charlemagne
 	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = 0 #Burgundian Succession crisis
+	}
 }
 
 d_provence = {
 	763.1.1 = {
-		liege = k_lotharingia
-	}
-	763.1.1 = {
 		holder = 194040 #Thomas
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_14 #Severus VI
 	}
 }
 
@@ -20,10 +73,35 @@ c_provence = {
 	
 	#Karling
 	763.1.1 = {
-		liege = k_lotharingia
-	}
-	763.1.1 = {
 		holder = 194040 #Thomas
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_14 #Severus VI
 	}
 }
 
@@ -38,6 +116,34 @@ c_nice = {
 	756.1.1 = {
 		holder = 190330 #Liutprand
 	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_14 #Severus VI
+	}
 }
 
 
@@ -48,6 +154,34 @@ c_forcalquier = {
 	765.1.1 = {
 		liege = "d_provence"
 		holder = 91500 #Welentus, historical as placeholder
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_14 #Severus VI
 	}
 }
 
@@ -60,8 +194,142 @@ c_venaissin = {
 		liege = "d_provence"
 		holder = 91500 #Welentus, historical as placeholder
 	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_14 #Severus VI
+	}
 }
 
+d_dauphine = {
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
+}
+
+c_lyon = {
+	867.1.1 = { change_development_level = 8 }
+	1066.1.1 = { change_development_level = 10 }
+	
+	765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
+}
+
+c_forez = {
+	867.1.1 = { change_development_level = 6 }
+	1066.1.1 = { change_development_level = 8 }
+	
+	765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
+}
 
 c_viviers = {
 	867.1.1 = { change_development_level = 7 }
@@ -71,10 +339,159 @@ c_viviers = {
 		liege = "d_upper_burgundy"
 		holder = 91494 #Wegelenzo, historical as placeholder
 	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
 }
 
+c_viennois = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
+	750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
+}
+
+c_valentinois = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
+	750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+	#Burgundiae
+	814.1.2 = {
+		holder = burgundian_01 #Severus I
+	}
+	851.1.1 = {
+		holder = burgundian_02 #Severus II
+	}
+	885.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_15 #Julius II
+	}
+}
 
 d_savoie = {
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	855.1.1 = {
+		holder = 7977
+	}
+	864.1.1 = {
+		holder = 144998
+	}
+	866.1.1 = {
+		holder = 7989
+	}
+	867.1.1 = {
+		liege = k_lotharingia
+	}
+	876.1.1 = {
+		holder = 7984
+	}
+	#Burgundiae
+	898.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_16 #Romulus
+	}
 }
 
 
@@ -90,6 +507,41 @@ c_savoie = {
 	}
 	798.1.1 = {
 		holder = 190563 #Hugh II
+	}
+	855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	864.1.1 = {
+		holder = 144998
+	}
+	866.1.1 = {
+		holder = 7989
+	}
+	876.1.1 = {
+		holder = 7984
+	}
+	#Burgundiae
+	898.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_16 #Romulus
 	}
 }
 
@@ -107,8 +559,92 @@ c_aosta = {
 	798.1.1 = {
 		holder = 190563 #Hugh II
 	}
+	855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	864.1.1 = {
+		holder = 144998
+	}
+	866.1.1 = {
+		holder = 7989
+	}
+	876.1.1 = {
+		holder = 7984
+	}
+	#Burgundiae
+	898.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_16 #Romulus
+	}
 }
 
+c_geneva = {
+	867.1.1 = { change_development_level = 9 }
+	1066.1.1 = { change_development_level = 12	}
+	
+	760.1.1 = {
+		liege = k_lotharingia
+	}
+	760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	864.1.1 = {
+		holder = 144998
+	}
+	866.1.1 = {
+		holder = 7989
+	}
+	876.1.1 = {
+		holder = 7984
+	}
+	#Burgundiae
+	898.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_16 #Romulus
+	}
+}
 
 c_canavese = {
 	867.1.1 = { change_development_level = 7 }
@@ -123,64 +659,83 @@ c_canavese = {
 	798.1.1 = {
 		holder = 190563 #Hugh II
 	}
-}
-
-d_dauphine = {
-}
-
-c_lyon = {
-	867.1.1 = { change_development_level = 8 }
-	1066.1.1 = { change_development_level = 10 }
-	
-	765.1.1 = {
-		liege = "k_lotharingia"
-		holder = 91491 #VUODO, historical count as placeholder
-	}
-}
-
-
-c_viennois = {
-	867.1.1 = { change_development_level = 7 }
-	1066.1.1 = { change_development_level = 10 }
-	
-	750.1.1 = {
+	855.1.1 = {
 		liege = "d_upper_burgundy"
-		holder = 91490 #VULFARD, historical placeholder
+		holder = 7977
+	}
+	864.1.1 = {
+		holder = 144998
+	}
+	866.1.1 = {
+		holder = 7989
+	}
+	876.1.1 = {
+		holder = 7984
+	}
+	#Burgundiae
+	898.1.1 = {
+		holder = burgundian_04 #Julius
+	}
+	903.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_16 #Romulus
 	}
 }
-
-
-c_valentinois = {
-	867.1.1 = { change_development_level = 7 }
-	1066.1.1 = { change_development_level = 10 }
-	
-	750.1.1 = {
-		liege = "d_upper_burgundy"
-		holder = 91490 #VULFARD, historical placeholder
-	}
-}
-
-
-c_forez = {
-	867.1.1 = { change_development_level = 6 }
-	1066.1.1 = { change_development_level = 8 }
-	
-	765.1.1 = {
-		liege = "k_lotharingia"
-		holder = 91491 #VUODO, historical count as placeholder
-	}
-}
-
 
 d_upper_burgundy = {
-	760.1.1 = {
+	769.1.1 = {
+		holder = 144999
+	}
+	855.8.23 = {
+		holder = 91383
+	}
+	859.1.1 = {
+		holder = 91384
+	}
+	867.1.1 = {
 		liege = k_lotharingia
 	}
-	760.1.1 = {
-		holder = 190562 #Hugh I
+	880.1.1 = {
+		holder = 90105
 	}
-	798.1.1 = {
-		holder = 190563 #Hugh II
+	888.1.14 = {
+		holder = 7984
+	}
+	911.10.25 = {
+		holder = 1144
+	}
+	#Burgundiae
+	922.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_17 #Romanus
 	}
 }
 
@@ -192,26 +747,42 @@ c_besancon = {
 	769.1.1 = {
 		holder = 144999
 	}
-}
-
-
-c_geneva = {
-	867.1.1 = { change_development_level = 9 }
-	1066.1.1 = { change_development_level = 12	}
-	
-	760.1.1 = {
-		liege = "k_lotharingia"
-		holder = 91482 #FREDERIC, count of Transjuranie
+	855.8.23 = {
+		holder = 91383
 	}
-}
-
-
-c_dole = {
-	867.1.1 = { change_development_level = 7 }
-	1066.1.1 = { change_development_level = 10 }
-	
-	769.1.1 = {
-		holder = 144999
+	859.1.1 = {
+		holder = 91384
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	880.1.1 = {
+		holder = 90105
+	}
+	888.1.14 = {
+		holder = 7984
+	}
+	911.10.25 = {
+		holder = 1144
+	}
+	#Burgundiae
+	922.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_17 #Romanus
 	}
 }
 
@@ -222,17 +793,171 @@ c_bresse = {
 	769.1.1 = {
 		holder = 144999
 	}
+	855.8.23 = {
+		holder = 91383
+	}
+	859.1.1 = {
+		holder = 91384
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	880.1.1 = {
+		holder = 90105
+	}
+	888.1.14 = {
+		holder = 7984
+	}
+	911.10.25 = {
+		holder = 1144
+	}
+	#Burgundiae
+	922.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_17 #Romanus
+	}
+}
+
+c_dole = {
+	867.1.1 = { change_development_level = 7 }
+	1066.1.1 = { change_development_level = 10 }
+	
+	769.1.1 = {
+		holder = 144999
+	}
+	855.8.23 = {
+		holder = 91383
+	}
+	859.1.1 = {
+		holder = 91384
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	880.1.1 = {
+		holder = 90105
+	}
+	888.1.14 = {
+		holder = 7984
+	}
+	911.10.25 = {
+		holder = 1144
+	}
+	#Burgundiae
+	922.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_17 #Romanus
+	}
+}
+
+d_transjurania = {
+	769.1.1 = {
+		holder = 144999
+	}
+	760.1.1 = {
+		holder = 167825 #Gerold
+	}
+	864.1.1 = {
+		holder = 168154
+	}
+	867.1.1 = {
+		liege = k_lotharingia
+	}
+	890.3.21 = {
+		holder = 168155
+	}
+	899.1.1 = {
+		holder = 168158
+	}
+	#Burgundiae
+	930.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_18 #Gaius II
+	}
 }
 
 c_bern = {
 	867.1.1 = { change_development_level = 8 }
 	1066.1.1 = { change_development_level = 11	}
 	
-	760.1.1 = {
-		liege = d_swabia
+	769.1.1 = {
+		holder = 144999
 	}
 	760.1.1 = {
 		holder = 167825 #Gerold
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	864.1.1 = {
+		holder = 168154
+	}
+	890.3.21 = {
+		holder = 168155
+	}
+	899.1.1 = {
+		holder = 168158
+	}
+	#Burgundiae
+	930.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_18 #Gaius II
 	}
 }
 
@@ -241,11 +966,42 @@ c_aargau = {
 	867.1.1 = { change_development_level = 7 }
 	1066.1.1 = { change_development_level = 10 }
 	
-	740.1.1 = {
-		liege = d_swabia
+	769.1.1 = {
+		holder = 144999
 	}
-	740.1.1 = {
-		holder = 161481 #Hugo
+	760.1.1 = {
+		holder = 167825 #Gerold
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	864.1.1 = {
+		holder = 168154
+	}
+	890.3.21 = {
+		holder = 168155
+	}
+	899.1.1 = {
+		holder = 168158
+	}
+	#Burgundiae
+	930.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_18 #Gaius II
 	}
 }
 
@@ -254,8 +1010,41 @@ c_neuchatel = {
 	867.1.1 = { change_development_level = 7 }
 	1066.1.1 = { change_development_level = 10 }
 	
+	769.1.1 = {
+		holder = 144999
+	}
 	760.1.1 = {
-		liege = "k_lotharingia"
-		holder = 91482 #FREDERIC, count of Transjuranie
+		holder = 167825 #Gerold
+	}
+	863.1.25 = {
+		liege = d_dauphine
+	}
+	864.1.1 = {
+		holder = 168154
+	}
+	890.3.21 = {
+		holder = 168155
+	}
+	899.1.1 = {
+		holder = 168158
+	}
+	#Burgundiae
+	930.1.1 = {
+		holder = burgundian_09 #Licinius
+	}
+	943.1.1 = {
+		holder = burgundian_10 #Severus III
+	}
+	961.1.1 = {
+		holder = burgundian_11 #Gaius
+	}
+	988.1.1 = {
+		holder = burgundian_12 #Severus IV
+	}
+	1013.1.1 = {
+		holder = burgundian_13 #Severus V
+	}
+	1066.1.1 = {
+		holder = burgundian_18 #Gaius II
 	}
 }

@@ -8,6 +8,9 @@
 	867.1.1 = {
 		special_building_slot = grand_castle_provence
 	}
+	992.1.1 = {
+		special_building = grand_castle_provence
+	}
 }
 2023 = {	#AIX
 	holding = city_holding
@@ -81,10 +84,13 @@
 ##d_savoie
 ###c_savoie
 2031 = {	#MOUTIERS
-	culture = burgundian
+	culture = cisalpine
 	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
+	898.1.1 = {
+		culture = burgundian
+	}
+	1066.1.1 = {
 		duchy_capital_building = burgundian_castle_01
 	}
 }
@@ -100,9 +106,12 @@
 
 ###c_aosta
 2039 = {	#AOSTA
-	culture = burgundian
+	culture = cisalpine
 	religion = catholic
 	holding = castle_holding
+	898.1.1 = {
+		culture = burgundian
+	}
 }
 2038 = {	# MARTIGNY
 	holding = city_holding
@@ -110,9 +119,12 @@
 
 ###c_geneva
 2035 = {	#GENEVA
-	culture = burgundian
+	culture = french
 	religion = catholic
 	holding = castle_holding
+	898.1.1 = {
+		culture = burgundian
+	}
 }
 2034 = {	#ANNECY
 	holding = city_holding
@@ -126,9 +138,12 @@
 
 ###c_canavese
 2040 = {	#IVREA
-	culture = burgundian
+	culture = cisalpine
 	religion = catholic
 	holding = castle_holding
+	898.1.1 = {
+		culture = burgundian
+	}
 }
 2042 = {	#PINEROLO
 	holding = church_holding
@@ -209,10 +224,13 @@
 ##d_upper_burgundy
 ###c_besancon
 2076 = {	#BESANCON
-	culture = burgundian
+	culture = french
 	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
+	922.1.1 = {
+		culture = burgundian
+	}
+	1066.1.1 = {
 		duchy_capital_building = burgundian_castle_01
 	}
 }
@@ -231,9 +249,12 @@
 
 ###c_bresse
 2071 = {	#BOURG
-	culture = burgundian
+	culture = french
 	religion = catholic
 	holding = castle_holding
+	922.1.1 = {
+		culture = burgundian
+	}
 }
 2457 = {	#CHAMPAGNOLE
 	holding = none
@@ -244,9 +265,12 @@
 
 ###c_dole
 2458 = {	#DOLE
-	culture = burgundian
+	culture = french
 	religion = catholic
 	holding = castle_holding
+	922.1.1 = {
+		culture = burgundian
+	}
 }
 2191 = {	#QUINGEY
 	holding = church_holding
@@ -261,10 +285,13 @@
 ##d_transjurania ###################################
 ###c_bern
 2046 = {	#BERN
-	culture = burgundian
+	culture = swabian
 	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
+	930.1.1 = {
+		culture = burgundian
+	}
+	1066.1.1 = {
 		duchy_capital_building = burgundian_castle_01
 	}
 }
@@ -277,9 +304,12 @@
 
 ###c_aargau
 2049 = {	#BIEL
-	culture = burgundian
+	culture = swabian
 	religion = catholic
 	holding = castle_holding
+	930.1.1 = {
+		culture = burgundian
+	}
 }
 2048 = {	#LUCERNE
 	holding = church_holding
@@ -287,9 +317,12 @@
 
 ###c_neuchatel
 2460 = {	#NEUCHATEL
-	culture = burgundian
+	culture = swabian
 	religion = catholic
 	holding = castle_holding
+	930.1.1 = {
+		culture = burgundian
+	}
 }
 2074 = {	#PONTARLIER
 	holding = city_holding

@@ -1,0 +1,387 @@
+﻿burgundian_01 = {
+	name = "Severus"
+	religion = catholic
+	culture = french
+	dynasty = burgundian
+	father = 40994
+	mother = 168225
+	794.1.1 = {
+		birth = yes
+	}
+	815.1.1 = {
+		add_spouse = burgundian_01_w
+	}
+	851.1.1 = {
+		death = yes
+	}
+}
+burgundian_01_w = {
+	name = "Antonia"
+	religion = catholic
+	culture = french
+	female = yes
+	797.1.1 = {
+		birth = yes
+	}
+	858.1.1 = {
+		death = yes
+	}
+}
+burgundian_02 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_01
+	mother = burgundian_01_w
+	824.1.1 = {
+		birth = yes
+	}
+	841.1.1 = {
+		add_spouse = burgundian_02_w
+	}
+	885.1.1 = {
+		death = yes
+	}
+}
+burgundian_02_w = {
+	name = "Marcia"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	820.1.1 = {
+		birth = yes
+	}
+	870.1.1 = {
+		death = yes
+	}
+}
+burgundian_03 = {
+	name = "Licinius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_01
+	mother = burgundian_01_w
+	834.1.1 = {
+		birth = yes
+	}
+	840.1.1 = {
+		add_spouse = burgundian_03_w
+	}
+	882.1.1 = {
+		death = yes
+	}
+}
+burgundian_03_w = {
+	name = "Victoria"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	836.1.1 = {
+		birth = yes
+	}
+	882.1.1 = {
+		death = yes
+	}
+}
+burgundian_04 = {
+	name = "Julius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_02
+	mother = burgundian_02_w
+	851.1.1 = {
+		birth = yes
+	}
+	870.1.1 = {
+		add_spouse = burgundian_04_w
+	}
+	903.1.1 = {
+		death = yes
+	}
+}
+burgundian_04_w = {
+	name = "Aelia"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	852.1.1 = {
+		birth = yes
+	}
+	903.1.1 = {
+		death = yes
+	}
+}
+burgundian_05 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	859.1.1 = {
+		birth = yes
+	}
+	902.1.1 = {
+		death = yes
+	}
+}
+burgundian_06 = {
+	name = "Marius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	862.1.1 = {
+		birth = yes
+	}
+	909.1.1 = {
+		death = yes
+	}
+}
+burgundian_07 = {
+	name = "Aetius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	864.1.1 = {
+		birth = yes
+	}
+	907.1.1 = {
+		death = yes
+	}
+}
+burgundian_08 = {
+	name = "Gaius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_02
+	mother = burgundian_02_w
+	858.1.1 = {
+		birth = yes
+	}
+	919.1.1 = {
+		death = yes
+	}
+}
+burgundian_09 = {
+	name = "Licinius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_04
+	mother = burgundian_04_w
+	874.1.1 = {
+		birth = yes
+	}
+	895.1.1 = {
+		add_spouse = burgundian_09_w
+	}
+	943.1.1 = {
+		death = yes
+	}
+}
+burgundian_09_w = {
+	name = "Maria"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	876.1.1 = {
+		birth = yes
+	}
+	950.1.1 = {
+		death = yes
+	}
+}
+burgundian_10 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_09
+	mother = burgundian_09_w
+	900.1.1 = {
+		birth = yes
+	}
+	924.1.1 = {
+		add_spouse = burgundian_10_w
+	}
+	961.1.1 = {
+		death = yes
+	}
+}
+burgundian_10_w = {
+	name = "Octavia"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	904.1.1 = {
+		birth = yes
+	}
+	972.1.1 = {
+		death = yes
+	}
+}
+burgundian_11 = {
+	name = "Gaius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_10
+	mother = burgundian_10_w
+	929.1.1 = {
+		birth = yes
+	}
+	950.1.1 = {
+		add_spouse = burgundian_11_w
+	}
+	988.1.1 = {
+		death = yes
+	}
+}
+burgundian_11_w = {
+	name = "Julia"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	933.1.1 = {
+		birth = yes
+	}
+	998.1.1 = {
+		death = yes
+	}
+}
+burgundian_12 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_11
+	mother = burgundian_11_w
+	962.1.1 = {
+		birth = yes
+	}
+	990.1.1 = {
+		add_spouse = burgundian_12_w
+	}
+	1013.1.1 = {
+		death = yes
+	}
+}
+burgundian_12_w = {
+	name = "Serena"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	971.1.1 = {
+		birth = yes
+	}
+	1044.1.1 = {
+		death = yes
+	}
+}
+burgundian_13 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_12
+	mother = burgundian_12_w
+	1003.1.1 = {
+		birth = yes
+	}
+	1037.1.1 = {
+		add_spouse = burgundian_13_w
+	}
+	1066.1.1 = {
+		death = yes
+	}
+}
+burgundian_13_w = {
+	name = "Viviana"
+	religion = catholic
+	culture = burgundian
+	female = yes
+	1009.1.1 = {
+		birth = yes
+	}
+	1070.1.1 = {
+		death = yes
+	}
+}
+burgundian_14 = {
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_13
+	mother = burgundian_13_w
+	1040.1.1 = {
+		birth = yes
+	}
+	1103.1.1 = {
+		death = yes
+	}
+}
+burgundian_15 = {
+	name = "Julius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_13
+	mother = burgundian_13_w
+	1041.1.1 = {
+		birth = yes
+	}
+	1097.1.1 = {
+		death = yes
+	}
+}
+burgundian_16 = {
+	name = "Romulus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_13
+	mother = burgundian_13_w
+	1043.1.1 = {
+		birth = yes
+	}
+	1109.1.1 = {
+		death = yes
+	}
+}
+burgundian_17 = {
+	name = "Romanus"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_13
+	mother = burgundian_13_w
+	1047.1.1 = {
+		birth = yes
+	}
+	1083.1.1 = {
+		death = yes
+	}
+}
+burgundian_18 = {
+	name = "Gaius"
+	religion = catholic
+	culture = burgundian
+	dynasty = burgundian
+	father = burgundian_13
+	mother = burgundian_13_w
+	1051.1.1 = {
+		birth = yes
+	}
+	1114.1.1 = {
+		death = yes
+	}
+}
