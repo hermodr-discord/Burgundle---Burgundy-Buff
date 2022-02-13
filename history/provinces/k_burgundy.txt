@@ -7,7 +7,6 @@
 	holding = castle_holding
 	867.1.1 = {
 		special_building_slot = grand_castle_provence
-		duchy_capital_building_slot = yes
 	}
 }
 2023 = {	#AIX
@@ -27,6 +26,9 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
+	867.1.1 = {
+		duchy_capital_building = burgundian_castle_01
+	}
 }
 2059 = {	#AVIGNON
 	holding = none

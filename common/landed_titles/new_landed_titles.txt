@@ -6,7 +6,7 @@ e_burgundy = {
 	color = { 128 0 32 }
 	color2 = { 220 220 0 }
 	
-	capital = c_provence
+	capital = c_venaissin
 		
 	ai_primary_priority = {
 		if = {
@@ -31,7 +31,7 @@ e_burgundy = {
 		color = { 128 0 32 }
 		color2 = { 220 220 0 }
 		
-		capital	= c_provence
+		capital	= c_venaissin
 		
 		ai_primary_priority = {
 			if = {
@@ -51,10 +51,39 @@ e_burgundy = {
 			color = { 128 0 32 }
 			color2 = { 255 255 255 }
 			
-			capital = c_provence
+			capital = c_venaissin
 			
-			c_provence = {
+			c_venaissin = {
 				color = { 128 0 32 }
+				color2 = { 255 255 255 }
+				
+				b_arles = {
+					province = 2017
+					
+					color = { 128 0 32 }
+					color2 = { 255 255 255 }
+				}
+				b_orange = {
+					province = 2062
+					
+					color = { 180 30 70 }
+					color2 = { 255 255 255 }
+				}
+				b_avignon = {
+					province = 2059
+					
+					color = { 180 30 70 }
+					color2 = { 255 255 255 }
+				}
+				b_vaison = {
+					province = 2067
+					
+					color = { 180 30 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_provence = {
+				color = { 180 30 70 }
 				color2 = { 255 255 255 }
 				
 				b_toulon = {
@@ -85,35 +114,6 @@ e_burgundy = {
 					province = 2023
 					
 					color = { 165 50 105 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_venaissin = {
-				color = { 128 0 32 }
-				color2 = { 255 255 255 }
-				
-				b_arles = {
-					province = 2017
-					
-					color = { 128 0 32 }
-					color2 = { 255 255 255 }
-				}
-				b_orange = {
-					province = 2062
-					
-					color = { 180 30 70 }
-					color2 = { 255 255 255 }
-				}
-				b_avignon = {
-					province = 2059
-					
-					color = { 180 30 70 }
-					color2 = { 255 255 255 }
-				}
-				b_vaison = {
-					province = 2067
-					
-					color = { 180 30 70 }
 					color2 = { 255 255 255 }
 				}
 			}
