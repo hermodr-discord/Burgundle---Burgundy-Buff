@@ -5,11 +5,24 @@
 	dynasty = burgundian
 	father = 40994
 	mother = 168225
+	martial = 8
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 10
+	learning = 8
+	prowess = 7
+	trait = temperate
+	trait = diligent
+	trait = humble
+	trait = intellect_good_1
+	trait = education_stewardship_4
+	trait = shrewd
 	794.1.1 = {
 		birth = yes
 	}
 	815.1.1 = {
 		add_spouse = burgundian_01_w
+		give_nickname = nick_the_great
 	}
 	851.1.1 = {
 		death = yes
@@ -34,11 +47,26 @@ burgundian_02 = {
 	dynasty = burgundian
 	father = burgundian_01
 	mother = burgundian_01_w
+	martial = 9
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 11
+	learning = 7
+	prowess = 9
+	trait = temperate
+	trait = diligent
+	trait = stubborn
+	trait = brave
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = strong
+	trait = shrewd
 	824.1.1 = {
 		birth = yes
 	}
 	841.1.1 = {
 		add_spouse = burgundian_02_w
+		give_nickname = nick_the_wolf
 	}
 	885.1.1 = {
 		death = yes
@@ -63,6 +91,19 @@ burgundian_03 = {
 	dynasty = burgundian
 	father = burgundian_01
 	mother = burgundian_01_w
+	martial = 12
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 9
+	learning = 5
+	prowess = 11
+	trait = diligent
+	trait = zealous
+	trait = brave
+	trait = intellect_good_2
+	trait = education_martial_4
+	trait = strong
+	trait = blademaster_2
 	834.1.1 = {
 		birth = yes
 	}
@@ -92,6 +133,19 @@ burgundian_04 = {
 	dynasty = burgundian
 	father = burgundian_02
 	mother = burgundian_02_w
+	martial = 8
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 13
+	learning = 7
+	prowess = 8
+	trait = temperate
+	trait = greedy
+	trait = stubborn
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = strong
+	trait = shrewd
 	851.1.1 = {
 		birth = yes
 	}
@@ -121,6 +175,14 @@ burgundian_05 = {
 	dynasty = burgundian
 	father = burgundian_03
 	mother = burgundian_03_w
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	learning = 5
+	prowess = 7
+	trait = intellect_good_2
+	trait = shrewd
 	859.1.1 = {
 		birth = yes
 	}
@@ -135,6 +197,14 @@ burgundian_06 = {
 	dynasty = burgundian
 	father = burgundian_03
 	mother = burgundian_03_w
+	martial = 4
+	diplomacy = 3
+	intrigue = 2
+	stewardship = 5
+	learning = 3
+	prowess = 4
+	trait = intellect_good_2
+	trait = shrewd
 	862.1.1 = {
 		birth = yes
 	}
@@ -149,6 +219,14 @@ burgundian_07 = {
 	dynasty = burgundian
 	father = burgundian_03
 	mother = burgundian_03_w
+	martial = 2
+	diplomacy = 2
+	intrigue = 1
+	stewardship = 3
+	learning = 2
+	prowess = 2
+	trait = intellect_good_2
+	trait = shrewd
 	864.1.1 = {
 		birth = yes
 	}
@@ -163,6 +241,15 @@ burgundian_08 = {
 	dynasty = burgundian
 	father = burgundian_02
 	mother = burgundian_02_w
+	martial = 3
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	learning = 3
+	prowess = 5
+	trait = gregarious
+	trait = intellect_good_2
+	trait = shrewd
 	858.1.1 = {
 		birth = yes
 	}
@@ -177,6 +264,18 @@ burgundian_09 = {
 	dynasty = burgundian
 	father = burgundian_04
 	mother = burgundian_04_w
+	martial = 9
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 12
+	learning = 8
+	prowess = 9
+	trait = temperate
+	trait = greedy
+	trait = wrathful
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	874.1.1 = {
 		birth = yes
 	}
@@ -206,11 +305,24 @@ burgundian_10 = {
 	dynasty = burgundian
 	father = burgundian_09
 	mother = burgundian_09_w
+	martial = 8
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 12
+	learning = 8
+	prowess = 6
+	trait = temperate
+	trait = content
+	trait = humble
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	900.1.1 = {
 		birth = yes
 	}
 	924.1.1 = {
 		add_spouse = burgundian_10_w
+		give_nickname = nick_the_kind
 	}
 	961.1.1 = {
 		death = yes
@@ -235,6 +347,18 @@ burgundian_11 = {
 	dynasty = burgundian
 	father = burgundian_10
 	mother = burgundian_10_w
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 11
+	learning = 9
+	prowess = 7
+	trait = temperate
+	trait = brave
+	trait = stubborn
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	929.1.1 = {
 		birth = yes
 	}
@@ -264,11 +388,24 @@ burgundian_12 = {
 	dynasty = burgundian
 	father = burgundian_11
 	mother = burgundian_11_w
+	martial = 8
+	diplomacy = 9
+	intrigue = 6
+	stewardship = 12
+	learning = 8
+	prowess = 7
+	trait = temperate
+	trait = content
+	trait = humble
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	962.1.1 = {
 		birth = yes
 	}
 	990.1.1 = {
 		add_spouse = burgundian_12_w
+		give_nickname = nick_the_architect
 	}
 	1013.1.1 = {
 		death = yes
@@ -293,13 +430,26 @@ burgundian_13 = {
 	dynasty = burgundian
 	father = burgundian_12
 	mother = burgundian_12_w
+	martial = 10
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 14
+	learning = 9
+	prowess = 9
+	trait = temperate
+	trait = diligent
+	trait = brave
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	1003.1.1 = {
 		birth = yes
 	}
 	1037.1.1 = {
 		add_spouse = burgundian_13_w
+		give_nickname = nick_the_undying
 	}
-	1066.1.1 = {
+	1066.9.15 = {
 		death = yes
 	}
 }
@@ -322,8 +472,50 @@ burgundian_14 = {
 	dynasty = burgundian
 	father = burgundian_13
 	mother = burgundian_13_w
+	martial = 10
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 14
+	learning = 9
+	prowess = 8
+	trait = temperate
+	trait = stubborn
+	trait = diligent
+	trait = brave
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	1040.1.1 = {
 		birth = yes
+	}
+	1066.1.1 = {
+		effect = {
+			set_relation_rival = character:burgundian_15	#Julius in Viennois
+			set_relation_rival = character:burgundian_16	#Romulus in Savoy
+			set_relation_rival = character:burgundian_17	#Romanus in Upper Burgundy
+			set_relation_rival = character:burgundian_18	#Gaius in Transjurania
+			
+			add_opinion = {
+				target = character:burgundian_15	#Julius in Viennois
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_16	#Romulus in Savoy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_17	#Romanus in Upper Burgundy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_18	#Gaius in Transjurania
+				modifier = hate_opinion
+				opinion = -100
+			}
+		}
 	}
 	1103.1.1 = {
 		death = yes
@@ -336,8 +528,49 @@ burgundian_15 = {
 	dynasty = burgundian
 	father = burgundian_13
 	mother = burgundian_13_w
+	martial = 9
+	diplomacy = 11
+	intrigue = 7
+	stewardship = 13
+	learning = 10
+	prowess = 9
+	trait = temperate
+	trait = just
+	trait = diligent
+	trait = gregarious
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	1041.1.1 = {
 		birth = yes
+	}
+	1066.1.1 = {
+		effect = {
+			set_relation_rival = character:burgundian_16	#Romulus in Savoy
+			set_relation_rival = character:burgundian_17	#Romanus in Upper Burgundy
+			set_relation_rival = character:burgundian_18	#Gaius in Transjurania
+			
+			add_opinion = {
+				target = character:burgundian_14	#Severus in Provence
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_16	#Romulus in Savoy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_17	#Romanus in Upper Burgundy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_18	#Gaius in Transjurania
+				modifier = hate_opinion
+				opinion = -100
+			}
+		}
 	}
 	1097.1.1 = {
 		death = yes
@@ -350,8 +583,49 @@ burgundian_16 = {
 	dynasty = burgundian
 	father = burgundian_13
 	mother = burgundian_13_w
+	martial = 14
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 11
+	learning = 9
+	prowess = 11
+	trait = temperate
+	trait = brave
+	trait = zealous
+	trait = humble
+	trait = intellect_good_2
+	trait = education_martial_4
+	trait = shrewd
+	trait = blademaster_2
 	1043.1.1 = {
 		birth = yes
+	}
+	1066.1.1 = {
+		effect = {
+			set_relation_rival = character:burgundian_17	#Romanus in Upper Burgundy
+			set_relation_rival = character:burgundian_18	#Gaius in Transjurania
+			
+			add_opinion = {
+				target = character:burgundian_14	#Severus in Provence
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_15	#Julius in Viennois
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_17	#Romanus in Upper Burgundy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_18	#Gaius in Transjurania
+				modifier = hate_opinion
+				opinion = -100
+			}
+		}
 	}
 	1109.1.1 = {
 		death = yes
@@ -364,8 +638,47 @@ burgundian_17 = {
 	dynasty = burgundian
 	father = burgundian_13
 	mother = burgundian_13_w
+	martial = 10
+	diplomacy = 11
+	intrigue = 9
+	stewardship = 12
+	learning = 8
+	prowess = 6
+	trait = temperate
+	trait = greedy
+	trait = calm
+	trait = impatient
+	trait = intellect_good_2
+	trait = education_stewardship_4
+	trait = shrewd
 	1047.1.1 = {
 		birth = yes
+	}
+	1066.1.1 = {
+		effect = {
+			set_relation_rival = character:burgundian_18	#Gaius in Transjurania
+			
+			add_opinion = {
+				target = character:burgundian_14	#Severus in Provence
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_15	#Julius in Viennois
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_16	#Romulus in Savoy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_18	#Gaius in Transjurania
+				modifier = hate_opinion
+				opinion = -100
+			}
+		}
 	}
 	1083.1.1 = {
 		death = yes
@@ -378,8 +691,45 @@ burgundian_18 = {
 	dynasty = burgundian
 	father = burgundian_13
 	mother = burgundian_13_w
-	1051.1.1 = {
+	martial = 10
+	diplomacy = 9
+	intrigue = 13
+	stewardship = 8
+	learning = 9
+	prowess = 7
+	trait = temperate
+	trait = ambitious
+	trait = arbitrary
+	trait = gregarious
+	trait = intellect_good_2
+	trait = education_intrigue_4
+	trait = shrewd
+	1050.1.1 = {
 		birth = yes
+	}
+	1066.1.1 = {
+		effect = {
+			add_opinion = {
+				target = character:burgundian_14	#Severus in Provence
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_15	#Julius in Viennois
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_16	#Romulus in Savoy
+				modifier = hate_opinion
+				opinion = -100
+			}
+			add_opinion = {
+				target = character:burgundian_17	#Romanus in Upper Burgundy
+				modifier = hate_opinion
+				opinion = -100
+			}
+		}
 	}
 	1114.1.1 = {
 		death = yes
