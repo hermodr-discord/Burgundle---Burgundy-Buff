@@ -90,9 +90,6 @@
 	898.1.1 = {
 		culture = burgundian
 	}
-	1066.1.1 = {
-		duchy_capital_building = burgundian_castle_01
-	}
 }
 2029 = {	#SAINT-MICHEL-DE-MAURIENNE
 	holding = church_holding
@@ -158,7 +155,7 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
-	867.1.1 = {
+	1066.1.1 = {
 		duchy_capital_building = burgundian_castle_01
 	}
 }
@@ -230,9 +227,6 @@
 	922.1.1 = {
 		culture = burgundian
 	}
-	1066.1.1 = {
-		duchy_capital_building = burgundian_castle_01
-	}
 }
 2077 = {	#VESOUL
 	holding = none
@@ -290,9 +284,6 @@
 	holding = castle_holding
 	930.1.1 = {
 		culture = burgundian
-	}
-	1066.1.1 = {
-		duchy_capital_building = burgundian_castle_01
 	}
 }
 2037 = {	#LAUSANNE
