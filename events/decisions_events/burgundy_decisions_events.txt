@@ -1,0 +1,183 @@
+﻿namespace = burgundy_decisions
+
+##################################################
+
+## Burgundian Decision Events
+# Hróðvitnir
+
+# 0001-0010 - Reforming Burgundy
+
+##################################################
+# Reforming Burgundy
+##################################################
+
+burgundy_decisions.0001 = {
+	type = character_event
+	title = burgundy_decisions.0001.t
+	desc = burgundy_decisions.0001.desc
+	theme = realm
+	left_portrait = {
+		character = scope:founder
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		form_burgundy_scripted_effect = yes
+	}
+	option = {
+		name = burgundy_decisions.0001.a
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+burgundy_decisions.0002 = {
+	type = character_event
+	title = burgundy_decisions.0002.t
+	desc = burgundy_decisions.0002.desc
+	theme = realm
+	left_portrait = {
+		character = scope:founder
+		animation = personality_honorable
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		show_as_tooltip = { form_burgundy_scripted_effect = yes }
+	}
+	option = {
+		name = burgundy_decisions.0002.a
+		ai_chance = {
+			base = 50
+		}
+	}
+	option = {
+		name = burgundy_decisions.0002.b
+		ai_chance = {
+			base = 50
+		}
+	}
+}
+
+burgundy_decisions.0003 = {
+	type = character_event
+	title = burgundy_decisions.0003.t
+	desc = burgundy_decisions.0003.desc
+	theme = realm
+	left_portrait = {
+		character = scope:founder
+		animation = personality_honorable
+	}
+	right_portrait = {
+		character = root
+		animation = personality_bold
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		show_as_tooltip = { form_burgundy_scripted_effect = yes }
+	}
+	option = {
+		name = burgundy_decisions.0003.a
+		ai_chance = {
+			base = 50
+		}
+	}
+	option = {
+		name = burgundy_decisions.0003.b
+		ai_chance = {
+			base = 50
+		}
+	}
+}
+
+burgundy_decisions.0004 = {
+	type = character_event
+	title = burgundy_decisions.0004.t
+	desc = burgundy_decisions.0004.desc
+	theme = realm
+	left_portrait = {
+		character = scope:founder
+		animation = personality_honorable
+	}
+	right_portrait = {
+		character = root
+		animation = personality_bold
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		show_as_tooltip = { form_burgundy_scripted_effect = yes }
+	}
+	option = {
+		name = burgundy_decisions.0004.a
+		trigger = {
+			faith = scope:founder.faith
+		}
+		ai_chance = {
+			base = 100
+		}
+	}
+	option = {
+		name = burgundy_decisions.0004.b
+		trigger = {
+			NOT = {
+				faith = scope:founder.faith
+			}
+		}
+		ai_chance = {
+			base = 100
+		}
+	}
+	option = {
+		name = burgundy_decisions.0004.c
+		trigger = {
+			faith = scope:founder.faith
+			highest_held_title_tier >= tier_empire
+		}
+		ai_chance = {
+			base = 100
+		}
+	}
+	option = {
+		name = burgundy_decisions.0004.d
+		trigger = {
+			NOT = {
+				faith = scope:founder.faith
+			}
+			highest_held_title_tier >= tier_empire
+		}
+		ai_chance = {
+			base = 100
+		}
+	}
+}
+
+burgundy_decisions.0005 = {
+	type = character_event
+	title = burgundy_decisions.0005.t
+	desc = burgundy_decisions.0005.desc
+	theme = realm
+	left_portrait = {
+		character = scope:founder
+		animation = personality_honorable
+	}
+	right_portrait = {
+		character = root
+		animation = personality_bold
+	}
+	immediate = {
+		play_music_cue = "mx_cue_epic_sacral_moment"
+		show_as_tooltip = { form_burgundy_scripted_effect = yes }
+	}
+	option = {
+		name = burgundy_decisions.0005.a
+		ai_chance = {
+			base = 50
+		}
+	}
+	option = {
+		name = burgundy_decisions.0005.b
+		ai_chance = {
+			base = 50
+		}
+	}
+}

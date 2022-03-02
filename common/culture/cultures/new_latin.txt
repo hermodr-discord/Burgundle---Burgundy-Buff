@@ -1,6 +1,10 @@
 ﻿burgundian = {
 	color = { 128 0 32 }
 	
+	parents = { roman }
+
+	created = 830.1.1
+	
 	ethos = ethos_bureaucratic
 	heritage = heritage_latin
 	language = language_latin

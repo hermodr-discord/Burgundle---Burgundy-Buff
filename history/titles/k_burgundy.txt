@@ -25,7 +25,7 @@ k_burgundy = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = 0 #Burgundian Succession crisis
@@ -59,7 +59,7 @@ d_provence = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_14 #Severus VI
@@ -99,7 +99,7 @@ c_provence = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_14 #Severus VI
@@ -140,7 +140,7 @@ c_nice = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_14 #Severus VI
@@ -179,7 +179,7 @@ c_forcalquier = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_14 #Severus VI
@@ -218,7 +218,7 @@ c_venaissin = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_14 #Severus VI
@@ -249,7 +249,7 @@ d_dauphine = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -288,7 +288,7 @@ c_lyon = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -326,7 +326,7 @@ c_forez = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -364,7 +364,7 @@ c_viviers = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -402,7 +402,7 @@ c_viennois = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -440,7 +440,7 @@ c_valentinois = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_15 #Julius II
@@ -489,7 +489,7 @@ d_savoie = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_16 #Romulus
@@ -541,7 +541,7 @@ c_savoie = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_16 #Romulus
@@ -592,7 +592,7 @@ c_aosta = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_16 #Romulus
@@ -642,7 +642,7 @@ c_geneva = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_16 #Romulus
@@ -692,7 +692,7 @@ c_canavese = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_16 #Romulus
@@ -735,7 +735,7 @@ d_upper_burgundy = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_17 #Romanus
@@ -783,7 +783,7 @@ c_besancon = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_17 #Romanus
@@ -829,7 +829,7 @@ c_bresse = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_17 #Romanus
@@ -875,7 +875,7 @@ c_dole = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_17 #Romanus
@@ -915,7 +915,7 @@ d_transjurania = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_18 #Gaius II
@@ -959,7 +959,7 @@ c_bern = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_18 #Gaius II
@@ -1003,7 +1003,7 @@ c_aargau = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_18 #Gaius II
@@ -1047,7 +1047,7 @@ c_neuchatel = {
 		holder = burgundian_12 #Severus IV 'the Architect'
 	}
 	1013.1.1 = {
-		holder = burgundian_13 #Severus V 'the Undying'
+		holder = burgundian_13 #Severus V
 	}
 	1066.9.15 = {
 		holder = burgundian_18 #Gaius II

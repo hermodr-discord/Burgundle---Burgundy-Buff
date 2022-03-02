@@ -33,6 +33,14 @@ e_burgundy = {
 		
 		capital	= c_venaissin
 		
+		can_create = {
+			trigger_if = {
+				NOT = {
+					culture = { has_cultural_pillar = heritage_latin }
+				}
+			}
+		}
+		
 		ai_primary_priority = {
 			if = {
 				limit = {

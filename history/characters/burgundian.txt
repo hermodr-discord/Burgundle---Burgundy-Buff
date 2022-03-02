@@ -447,7 +447,6 @@ burgundian_13 = {
 	}
 	1037.1.1 = {
 		add_spouse = burgundian_13_w
-		give_nickname = nick_the_undying
 	}
 	1066.9.15 = {
 		death = yes

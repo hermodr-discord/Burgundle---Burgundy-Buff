@@ -1,0 +1,110 @@
+﻿#Reformation of Burgundy (preferably in 1066 start date)
+form_burgundy = {
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = form_burgundy_desc
+	selection_tooltip = form_burgundy_tooltip
+	major = yes
+
+	ai_check_interval = 60
+
+	is_shown = {
+		is_landed = yes
+		NOT = { exists = title:k_burgundy.holder }
+		NOT = {  #Can only do it once.
+			is_target_in_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_formed_burgundy
+			}
+		}
+		#No kings or emperors.
+		highest_held_title_tier <= tier_duchy
+		OR = {
+			culture = { has_cultural_pillar = heritage_frankish }
+			culture = { has_cultural_pillar = heritage_latin }
+		}
+		any_sub_realm_county = {
+			OR = {
+				title_province = { geographical_region = custom_burgundy }
+			}
+		}
+	}
+
+	is_valid = {
+		prestige_level >= high_prestige_level
+		completely_controls_region = custom_burgundy
+	}
+
+	is_valid_showing_failures_only = {
+		is_capable_adult = yes
+		is_imprisoned = no
+		is_at_war = no
+	}
+
+	cost = {
+		gold = 450
+	}
+
+	effect = {
+		save_scope_as = founder
+		show_as_tooltip = { form_burgundy_scripted_effect = yes }
+		trigger_event = { id = burgundy_decisions.0001 }
+		every_player = {
+			limit = {
+				capital_province = {
+					geographical_region = world_europe_west
+				}
+				NOT = { this = scope:founder }
+			}
+			#Vassals get a separate event.
+			scope:founder = {
+				every_vassal = {
+					trigger_event = { id = burgundy_decisions.0002 }
+				}
+			}
+			#Emperor gets an event.
+			if = {
+				limit = { exists = title:e_hre.holder }
+				title:e_hre.holder = { trigger_event = { id = burgundy_decisions.0003 }}
+			}
+			#West/Central European Kings and Emperors get an event (if not a vassal of HRE)
+			if = {
+				limit = {
+					NOT = {
+						scope:founder.top_liege = { has_title = title:e_hre }
+					}
+					primary_title.tier >= tier_kingdom
+				}
+				trigger_event = burgundy_decisions.0004
+			}
+			#Everyone in the HRE gets an event (if a vassal of HRE)
+			if = {
+				limit = {
+					AND = {
+						scope:founder.top_liege = { has_title = title:e_hre }
+						top_liege = { has_title = title:e_hre}
+						liege = {
+							NOT = { this = scope:founder }
+						}
+						primary_title.tier <= tier_kingdom
+					}
+				}
+				trigger_event = burgundy_decisions.0005
+			}
+		}
+		hidden_effect = {
+			add_to_global_variable_list = {
+				name = unavailable_unique_decisions
+				target = flag:flag_formed_burgundy
+			}
+		}
+	}
+	
+	ai_potential = {
+		always = yes
+	}
+
+	ai_will_do = {
+		base = 100
+	}
+}
