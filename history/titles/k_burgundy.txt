@@ -4,10 +4,10 @@ k_burgundy = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -16,7 +16,7 @@ k_burgundy = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -38,10 +38,10 @@ d_provence = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -50,7 +50,7 @@ d_provence = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -78,10 +78,10 @@ c_provence = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -90,7 +90,7 @@ c_provence = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -119,10 +119,10 @@ c_nice = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -131,7 +131,7 @@ c_nice = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -158,10 +158,10 @@ c_forcalquier = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -170,7 +170,7 @@ c_forcalquier = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -197,10 +197,10 @@ c_venaissin = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -209,7 +209,7 @@ c_venaissin = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -228,10 +228,10 @@ c_venaissin = {
 d_dauphine = {
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -240,7 +240,7 @@ d_dauphine = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -267,10 +267,10 @@ c_lyon = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -279,7 +279,7 @@ c_lyon = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -305,10 +305,10 @@ c_forez = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -317,7 +317,7 @@ c_forez = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -343,10 +343,10 @@ c_viviers = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -355,7 +355,7 @@ c_viviers = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -381,10 +381,10 @@ c_viennois = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -393,7 +393,7 @@ c_viennois = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -419,10 +419,10 @@ c_valentinois = {
 	}
 	#Burgundiae
 	814.1.2 = {
-		holder = burgundian_01 #Severus I 'the Great'
+		holder = burgundian_01 #Severus I
 	}
 	851.1.1 = {
-		holder = burgundian_02 #Severus II 'the Younger'
+		holder = burgundian_02 #Severus II 'the Wolf'
 	}
 	885.1.1 = {
 		holder = burgundian_04 #Julius
@@ -431,7 +431,7 @@ c_valentinois = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -480,7 +480,7 @@ d_savoie = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -532,7 +532,7 @@ c_savoie = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -583,7 +583,7 @@ c_aosta = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -633,7 +633,7 @@ c_geneva = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -683,7 +683,7 @@ c_canavese = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -726,7 +726,7 @@ d_upper_burgundy = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -774,7 +774,7 @@ c_besancon = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -820,7 +820,7 @@ c_bresse = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -866,7 +866,7 @@ c_dole = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -906,7 +906,7 @@ d_transjurania = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -950,7 +950,7 @@ c_bern = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -994,7 +994,7 @@ c_aargau = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius
@@ -1038,7 +1038,7 @@ c_neuchatel = {
 		holder = burgundian_09 #Licinius
 	}
 	943.1.1 = {
-		holder = burgundian_10 #Severus III 'the Kind'
+		holder = burgundian_10 #Severus III
 	}
 	961.1.1 = {
 		holder = burgundian_11 #Gaius

@@ -8,9 +8,6 @@
 	867.1.1 = {
 		special_building_slot = grand_castle_provence
 	}
-	992.1.1 = {
-		special_building = grand_castle_provence
-	}
 }
 2023 = {	#AIX
 	holding = city_holding
@@ -155,9 +152,6 @@
 	culture = burgundian
 	religion = catholic
 	holding = castle_holding
-	1066.1.1 = {
-		duchy_capital_building = burgundian_castle_01
-	}
 }
 2070 = {	#VILLARS
 	holding = church_holding

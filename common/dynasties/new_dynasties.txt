@@ -1,4 +1,0 @@
-﻿burgundian = {
-	name = "dynn_Burgundian"
-	culture = "burgundian"
-}

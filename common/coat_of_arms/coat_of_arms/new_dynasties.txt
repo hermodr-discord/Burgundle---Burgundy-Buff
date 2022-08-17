@@ -2,7 +2,7 @@
 @smLysX = 0.23
 @smLysY = 0.26
 
-burgundian = { #de Burgundiae
+house_burgundian = { #de Burgundiae
 	pattern="pattern_solid.dds"
 	color1=rgb { 75 0 31 }
 	color2=white
