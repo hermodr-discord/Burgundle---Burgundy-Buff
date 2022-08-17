@@ -1,4 +1,4 @@
-﻿burgundian_01 = {
+﻿burgundian_01 = { # King Severus I, grandson of Charlemagne
 	name = "Severus"
 	religion = catholic
 	culture = french
@@ -39,7 +39,7 @@ burgundian_01_w = {
 		death = yes
 	}
 }
-burgundian_02 = {
+burgundian_02 = { # King Severus II, son of King Severus I
 	name = "Severus"
 	religion = catholic
 	culture = burgundian
@@ -82,26 +82,25 @@ burgundian_02_w = {
 		death = yes
 	}
 }
-burgundian_03 = {
+burgundian_03 = { # Licinius, son of King Severus I
 	name = "Licinius"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_01
 	mother = burgundian_01_w
-	martial = 12
+	martial = 7
 	diplomacy = 6
-	intrigue = 7
+	intrigue = 5
 	stewardship = 9
-	learning = 5
-	prowess = 11
+	learning = 6
+	prowess = 5
 	trait = diligent
-	trait = zealous
-	trait = brave
-	trait = intellect_good_2
-	trait = education_martial_4
-	trait = strong
-	trait = blademaster_2
+	trait = temperate
+	trait = content
+	trait = intellect_good_1
+	trait = education_stewardship_3
+	trait = shrewd
 	834.1.1 = {
 		birth = yes
 	}
@@ -124,7 +123,7 @@ burgundian_03_w = {
 		death = yes
 	}
 }
-burgundian_04 = {
+burgundian_04 = { # King Julius, son of King Severus II
 	name = "Julius"
 	religion = catholic
 	culture = burgundian
@@ -137,7 +136,7 @@ burgundian_04 = {
 	stewardship = 9
 	learning = 6
 	prowess = 6
-	trait = temperate
+	trait = impatient
 	trait = greedy
 	trait = stubborn
 	trait = intellect_good_1
@@ -164,73 +163,7 @@ burgundian_04_w = {
 		death = yes
 	}
 }
-burgundian_05 = {
-	name = "Severus"
-	religion = catholic
-	culture = burgundian
-	dynasty_house = house_burgundian
-	father = burgundian_03
-	mother = burgundian_03_w
-	martial = 6
-	diplomacy = 6
-	intrigue = 5
-	stewardship = 8
-	learning = 5
-	prowess = 7
-	trait = intellect_good_2
-	trait = shrewd
-	859.1.1 = {
-		birth = yes
-	}
-	902.1.1 = {
-		death = yes
-	}
-}
-burgundian_06 = {
-	name = "Marius"
-	religion = catholic
-	culture = burgundian
-	dynasty_house = house_burgundian
-	father = burgundian_03
-	mother = burgundian_03_w
-	martial = 4
-	diplomacy = 3
-	intrigue = 2
-	stewardship = 5
-	learning = 3
-	prowess = 4
-	trait = intellect_good_2
-	trait = shrewd
-	862.1.1 = {
-		birth = yes
-	}
-	909.1.1 = {
-		death = yes
-	}
-}
-burgundian_07 = {
-	name = "Aetius"
-	religion = catholic
-	culture = burgundian
-	dynasty_house = house_burgundian
-	father = burgundian_03
-	mother = burgundian_03_w
-	martial = 2
-	diplomacy = 2
-	intrigue = 1
-	stewardship = 3
-	learning = 2
-	prowess = 2
-	trait = intellect_good_2
-	trait = shrewd
-	864.1.1 = {
-		birth = yes
-	}
-	907.1.1 = {
-		death = yes
-	}
-}
-burgundian_08 = {
+burgundian_05 = { # Gaius, son of King Severus II
 	name = "Gaius"
 	religion = catholic
 	culture = burgundian
@@ -244,8 +177,7 @@ burgundian_08 = {
 	learning = 3
 	prowess = 5
 	trait = gregarious
-	trait = intellect_good_2
-	trait = shrewd
+	trait = intellect_good_1
 	858.1.1 = {
 		birth = yes
 	}
@@ -253,25 +185,90 @@ burgundian_08 = {
 		death = yes
 	}
 }
-burgundian_09 = {
+burgundian_06 = { # Severus, son of Licinius
+	name = "Severus"
+	religion = catholic
+	culture = burgundian
+	dynasty_house = house_burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	martial = 3
+	diplomacy = 3
+	intrigue = 2
+	stewardship = 6
+	learning = 4
+	prowess = 4
+	trait = pensive
+	trait = intellect_good_1
+	859.1.1 = {
+		birth = yes
+	}
+	902.1.1 = {
+		death = yes
+	}
+}
+burgundian_07 = { # Marius, son of Licinius
+	name = "Marius"
+	religion = catholic
+	culture = burgundian
+	dynasty_house = house_burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	martial = 4
+	diplomacy = 2
+	intrigue = 2
+	stewardship = 3
+	learning = 2
+	prowess = 3
+	trait = bossy
+	trait = intellect_good_1
+	862.1.1 = {
+		birth = yes
+	}
+	909.1.1 = {
+		death = yes
+	}
+}
+burgundian_08 = { # Aetius, son of Licinius
+	name = "Aetius"
+	religion = catholic
+	culture = burgundian
+	dynasty_house = house_burgundian
+	father = burgundian_03
+	mother = burgundian_03_w
+	martial = 1
+	diplomacy = 2
+	intrigue = 1
+	stewardship = 2
+	learning = 3
+	prowess = 2
+	trait = pensive
+	trait = intellect_good_1
+	864.1.1 = {
+		birth = yes
+	}
+	907.1.1 = {
+		death = yes
+	}
+}
+burgundian_09 = { # King Licinius, son of King Julius
 	name = "Licinius"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_04
 	mother = burgundian_04_w
-	martial = 9
-	diplomacy = 7
-	intrigue = 6
-	stewardship = 12
-	learning = 8
-	prowess = 9
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	learning = 6
+	prowess = 7
 	trait = temperate
 	trait = greedy
 	trait = wrathful
-	trait = intellect_good_2
-	trait = education_stewardship_4
-	trait = shrewd
+	trait = intellect_good_1
+	trait = education_stewardship_3
 	874.1.1 = {
 		birth = yes
 	}
@@ -294,25 +291,24 @@ burgundian_09_w = {
 		death = yes
 	}
 }
-burgundian_10 = {
+burgundian_10 = { # King Severus III, son of King Licinius
 	name = "Severus"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_09
 	mother = burgundian_09_w
-	martial = 8
-	diplomacy = 9
+	martial = 6
+	diplomacy = 10
 	intrigue = 6
-	stewardship = 12
+	stewardship = 7
 	learning = 8
 	prowess = 6
-	trait = temperate
+	trait = gregarious
 	trait = content
-	trait = humble
-	trait = intellect_good_2
-	trait = education_stewardship_4
-	trait = shrewd
+	trait = diligent
+	trait = intellect_good_1
+	trait = education_diplomacy_3
 	900.1.1 = {
 		birth = yes
 	}
@@ -335,25 +331,24 @@ burgundian_10_w = {
 		death = yes
 	}
 }
-burgundian_11 = {
+burgundian_11 = { # King Gaius, son of King Severus III
 	name = "Gaius"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_10
 	mother = burgundian_10_w
-	martial = 8
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 11
-	learning = 9
-	prowess = 7
-	trait = temperate
-	trait = brave
+	martial = 6
+	diplomacy = 4
+	intrigue = 9
+	stewardship = 6
+	learning = 7
+	prowess = 5
+	trait = deceitful
+	trait = diligent
 	trait = stubborn
-	trait = intellect_good_2
-	trait = education_stewardship_4
-	trait = shrewd
+	trait = intellect_good_1
+	trait = education_intrigue_3
 	929.1.1 = {
 		birth = yes
 	}
@@ -376,25 +371,25 @@ burgundian_11_w = {
 		death = yes
 	}
 }
-burgundian_12 = {
+burgundian_12 = { # King Severus IV, son of King Gaius
 	name = "Severus"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_11
 	mother = burgundian_11_w
-	martial = 8
-	diplomacy = 9
-	intrigue = 6
-	stewardship = 12
-	learning = 8
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 10
+	learning = 9
 	prowess = 7
 	trait = temperate
-	trait = content
+	trait = diligent
 	trait = humble
 	trait = intellect_good_2
-	trait = education_stewardship_4
-	trait = shrewd
+	trait = education_stewardship_3
+	trait = architect
 	962.1.1 = {
 		birth = yes
 	}
@@ -418,24 +413,24 @@ burgundian_12_w = {
 		death = yes
 	}
 }
-burgundian_13 = {
+burgundian_13 = { # King Severus V, son of King Severus IV
 	name = "Severus"
 	religion = catholic
 	culture = burgundian
 	dynasty_house = house_burgundian
 	father = burgundian_12
 	mother = burgundian_12_w
-	martial = 10
-	diplomacy = 9
-	intrigue = 7
-	stewardship = 14
-	learning = 9
+	martial = 4
+	diplomacy = 5
+	intrigue = 3
+	stewardship = 8
+	learning = 7
 	prowess = 9
-	trait = temperate
-	trait = diligent
-	trait = brave
+	trait = content
+	trait = lazy
+	trait = craven
 	trait = intellect_good_2
-	trait = education_stewardship_4
+	trait = education_stewardship_3
 	trait = shrewd
 	1003.1.1 = {
 		birth = yes
@@ -459,7 +454,7 @@ burgundian_13_w = {
 		death = yes
 	}
 }
-burgundian_14 = {
+burgundian_14 = { # Duke Severus VI, son of King Severus V
 	name = "Severus"
 	religion = catholic
 	culture = burgundian
@@ -513,7 +508,7 @@ burgundian_14 = {
 		death = yes
 	}
 }
-burgundian_15 = {
+burgundian_15 = { # Duke Julius II, son of King Severus V
 	name = "Julius"
 	religion = catholic
 	culture = burgundian
@@ -566,7 +561,7 @@ burgundian_15 = {
 		death = yes
 	}
 }
-burgundian_16 = {
+burgundian_16 = { # Duke Romulus, son of King Severus V
 	name = "Romulus"
 	religion = catholic
 	culture = burgundian
@@ -620,7 +615,7 @@ burgundian_16 = {
 		death = yes
 	}
 }
-burgundian_17 = {
+burgundian_17 = { # Duke Romanus, son of King Severus V
 	name = "Romanus"
 	religion = catholic
 	culture = burgundian
@@ -671,7 +666,7 @@ burgundian_17 = {
 		death = yes
 	}
 }
-burgundian_18 = {
+burgundian_18 = { # Duke Gaius II, son of King Severus V
 	name = "Gaius"
 	religion = catholic
 	culture = burgundian
